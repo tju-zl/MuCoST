@@ -8,5 +8,5 @@ Spatially resolved transcriptomics data are being used in a revolutionary way to
 
 
 ## Getting started
-See [Documentation and Tutorials] (https://github.com/tju-zl/MuCoST/blob/master/MuCoST_DLPFC%20Tutorial.ipynb)
+See [Documentation and Tutorials](https://github.com/tju-zl/MuCoST/blob/master/MuCoST_DLPFC%20Tutorial.ipynb)
 
