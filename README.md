@@ -17,7 +17,7 @@ In order to use the structural information of histological images, we also provi
 ## Software depdendencies
 - Scanpy 1.9.3
 - PyG 2.3.0
-- Pytroch 
+- Pytorch 2.0.1
 - scikit-learn 1.2.2
 - numpy 1.23.4
 - tqdm 4.65.0
