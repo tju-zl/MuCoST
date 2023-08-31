@@ -8,6 +8,12 @@ Spatially resolved transcriptomics data are being used in a revolutionary way to
 ## Getting started
 See [Documentation and Tutorials](https://github.com/tju-zl/MuCoST/blob/master/MuCoST_DLPFC%20Tutorial.ipynb)
 
+## SRT data collection for evaluating MuCoST
+All datasets are open access. The DLPFC datasets are available online at http://research.libd.org/spatialLIBD/. Mouse brain posterior and coronal mouse brain datasets are available online at https://www.10xgenomics.com/. Mouse olfactory bulb of Stereo-seq dataset is available online at https://github.com/JinmiaoChenLab/SEDR_analyses. We provide a collection of the above data at https://zenodo.org/record/8303947.
+
+## Expansibility with histology
+In order to use the structural information of histological images, we also provide a histological model, and the preprocessing of histological images is basis on the [tutorial of SpaGCN](https://github.com/jianhuupenn/SpaGCN/blob/master/tutorial/tutorial.ipynb). Set `mode_his` to `his` to open this mode. We do not enable this mode in the evaluation.
+
 ## Software depdendencies
 - Scanpy 1.9.3
 - PyG 2.3.0
