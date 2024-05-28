@@ -25,3 +25,6 @@ In order to use the structural information of histological images, we also provi
 - ot 0.9.0
 - argparse 1.1
 - r-base 3.6.1
+
+## Cite
+Lei Zhang, Shu Liang, Lin Wan, A multi-view graph contrastive learning framework for deciphering spatially resolved transcriptomics data, Briefings in Bioinformatics, Volume 25, Issue 4, July 2024, bbae255, https://doi.org/10.1093/bib/bbae255
